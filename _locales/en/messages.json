@@ -1,14 +1,8 @@
 {
   "appName": {
-    "message": "Chess bot (tips for chess.com/lichess.org)",
-    "description": "The name of the application"
+    "message": "Chess.com AutoSuggest"
   },
   "appDescription": {
-    "message": "Chess bot is automated suggestion bot working as Chrome extension on sites Chess.com and lichess.org",
-    "description": "The description of the application"
-  },
-  "appShortName": {
-    "message": "Chess bot extension (suggestions)",
-    "description": "The short name of the application"
+    "message": "Automated suggestion bot built on top of the GarboChessJS engine. Currently supports Chess.com."
   }
 }
